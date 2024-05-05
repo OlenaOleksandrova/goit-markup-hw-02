@@ -1,0 +1,110 @@
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+body {
+    :root {
+        font-family: "Roboto", sans-serif;
+        second-family: "Raleway", sans-serif;
+        background: #fff;
+        color:#434455 ;
+        }
+}
+a {
+    text-decoration: none;
+    /* logo */
+    .Web { font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        color: #4d5ae5;
+    }
+    .Studio {font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        color: #2e2f42;}
+}
+/* Top line */
+.link {
+    color: #2E2F42;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.link:hover { color: #404BBF;}
+.link:active {
+    color: #404BBF;
+}
+.info {color: #434455;
+font-size: 16px;
+}
+.info:hover { color: #404BBF;
+}
+
+/* hero images */
+.hero-images {background: #2e2f42;
+width: 1440px;
+    height: 600px;}
+.button-link {
+background: #4D5AE5;
+color: #FFFFFF
+} 
+
+/* Button */
+.button-link:hover {background: #404BBF;
+    color: #FFFFFF;}
+    .button-link {cursor: pointer;
+    background: #4d5ae5;}
+
+    /* section our-team */
+
+    .our-team-all {background: #f4f4fd;}
+
+/* other */
+.title {font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    color: #fff;
+
+}
+
+    h3 {font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        color: #2e2f42;
+}
+    p {font-weight: 400;
+        font-size: 16px;
+    line-height: 1.5;
+    color: #434455;}
+
+        h2 {font-weight: 700;
+            font-size: 36px;
+            line-height: 1.11111;
+            color: #2e2f42;
+        }
+        .footer {background: #2e2f42;}
+        .footer-text {color: #f4f4fd;}
+.Studio-footer {
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        color: #f4f4fd;
+}
+                color: #f4f4fd;
