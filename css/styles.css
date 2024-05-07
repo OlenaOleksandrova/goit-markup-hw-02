@@ -125,10 +125,11 @@ letter-spacing: 0.04em
         letter-spacing: 0.02em
 }
 .list-main { background-color: #FFFFFF}
-.link-section-2 { font-weight: 400;
+.link-section-second { font-weight: 400;
         font-size: 16px;
-        line-height: 1.5;
         color: #434455;
+        background-color: #FFFFFF;
+        line-height: 1.5;
         letter-spacing: 0.02em
 }
 
