@@ -22,7 +22,7 @@
 }
 body {
         font-family: Roboto, sans-serif;
-        background: #fffff;
+        background:#FFFFFF;
         color:#434455 ;
         font-weight: 400;
         }
@@ -33,7 +33,7 @@ a {text-decoration: none;}
 .logo {
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -45,7 +45,7 @@ a {text-decoration: none;}
     .studio {
          font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #2e2f42;
@@ -65,6 +65,7 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;
 }
 .link:hover { color: #404bbf;}
+.link:focus { color: #404bbf}
 .link:active { color: #404BBF; }
 .info {color: #434455;
     font-size: 16px;
@@ -108,21 +109,22 @@ letter-spacing: 0.04em
 /* other */
 .title {font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
     color: #fff;
     line-height: 1.07143;
     letter-spacing: 0.02em;
     text-align: center;
-
+    line-height: 1.07
 }
+/* section 2 main information */
 
-    .name-main-info {font-weight: 500;
+.main-info-section {background-color: #FFFFFF}
+.name-main-info {font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         color: #2e2f42;
         letter-spacing: 0.02em
 }
-    .link-section-2 { font-weight: 400;
+.link-section-2 { font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         color: #434455;
@@ -139,16 +141,18 @@ letter-spacing: 0.04em
     text-transform: capitalize
     }
     
-    .footer {background: #2e2f42;}
-    .footer-text {color: #f4f4fd;}
-    .web-footer {
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.16667;
-         letter-spacing: 0.03em;
-          text-transform: uppercase;color: #f4f4fd;
-          font-family: "Raleway", sans-serif;
-   
-
+.footer {background: #2e2f42;}
+.footer-text {
+    color: #f4f4fd;
+    line-height: 1.5;
+    letter-spacing: 0.02em
+}
+.web-footer {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;color: #f4f4fd;
+    font-family: "Raleway", sans-serif;
 }
              
