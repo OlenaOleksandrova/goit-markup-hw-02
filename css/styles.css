@@ -39,7 +39,6 @@ a {text-decoration: none;}
         color: #4d5ae5;
         font-family: "Raleway", sans-serif
 }
-/* <span class="studio-word">Studio</span> */
 
 
     .studio {
@@ -113,6 +112,9 @@ letter-spacing: 0.04em
     letter-spacing: 0.02em;
     text-align: center;
     line-height: 1.07
+}
+ul {
+    list-style: none;
 }
 /* section 2 main information */
 
